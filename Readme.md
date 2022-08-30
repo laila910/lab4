@@ -51,5 +51,5 @@ Office:
 # For yourself:
 
  This article talking about classes 
-["link1](https://everyday.codes/javascript/please-stop-using-classes-in-javascript/)
-["link2"](https://www.toptal.com/javascript/es6-class-chaos-keeps-js-developer-up)
+[link1](https://everyday.codes/javascript/please-stop-using-classes-in-javascript/)
+[link2](https://www.toptal.com/javascript/es6-class-chaos-keeps-js-developer-up)
