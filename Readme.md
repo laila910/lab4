@@ -12,15 +12,15 @@ Office:
  - eat(meals): Method in Person class (3 meals →100 health rate, 2
  - meals→75 health rate , 1 meal→ 50 health rate)
  - buy(items): Method in Person class ( 1 Item→decrees Money 10 LE)
- - work(hours): Method in Employee class ( 8→ happy, > 8 →tired, > 8 → lazy)
+ - work(hours): Method in Employee class ( 8→ happy, > 8 →tired, < 8 → lazy)
         
         • Salary: Property must be 1000 or more
-        • Health rate: Property must be between 0 and 100
+     
 
 > Implement Office methods
  - getAllEmployees(): Method in Office class get all current employees.
  - getEmployee(empId): Method in Office class get employee data of given
- - employee id, and if he is a manager display all info except salary.
+   employee id, and if he is a manager display all info except salary.
  - hire(Employee): Method in Office class hires the given employee.
  - fire(empId): Method in Office class fires the given employee id.
 
